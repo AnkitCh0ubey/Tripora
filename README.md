@@ -1,4 +1,4 @@
-# Dappazon
+# Tripora
 
 ## Technology Stack & Tools
 
